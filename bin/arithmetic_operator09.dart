@@ -8,6 +8,13 @@ Create a variable called 'answer'.
 Find the expression value assign to 'answer'. a+b - cd .
 
 */
-void main() {
+void main() { 
+  int a=8;
+  int b=3;
+  int c=2;
+  int d=4;
+  int answer=a+b-c*d;
+  print(answer);
+
   //write your code here
 }
