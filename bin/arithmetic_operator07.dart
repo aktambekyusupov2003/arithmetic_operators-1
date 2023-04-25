@@ -11,7 +11,7 @@ void main() {
   int a=12;
    int b=4;
    int c=1;
-   int answer=a+b+c;
+   int answer=a-b+c;
    print(answer);
   //write your code here
 }
